@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564395954512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3AB53499",
+    "lastKnownWriteTime" : 1564396327,
+    "last_content_update" : 1564396327112,
+    "path" : "~/Documents/programming/R/packages/hispanr/R/provmap.R",
+    "project_path" : "R/provmap.R",
+    "properties" : {
+        "cursorPosition" : "3,93",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

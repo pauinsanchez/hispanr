@@ -1,0 +1,16 @@
+Package: hispanr
+Type: Package
+Title: Choropleth maps of Spain
+Version: 0.1.0
+Author: Pau Insa Sánchez
+Maintainer: Pau Insa Sánchez <pau.insa@gmail.com>
+Description: This package simplifies the process of creation of simple
+    choropleth maps of Spain.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  sf,
+  dplyr,
+  RColorBrewer,
+  ggplot2
