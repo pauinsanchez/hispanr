@@ -10,7 +10,11 @@
 #' @examples
 #' provmap(data, c(0, 10, 20, 30, 40), "Reds")
 
-provmap <- function(data, a, color){
+provmap <- function(
+                    data,
+                    a,
+                    color)
+                    {
   # join the map with the data
   mapdata <<- inner_join(map, data)
   # obtain a vector with the intervals
