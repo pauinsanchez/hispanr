@@ -1,4 +1,4 @@
-# hispanr package (v 0.1.0)
+# hispanr package (development version)
 This is a personal package I created to simplify the process of creating simple choropleth maps for Spanish provinces. 
 
 ## Installation
