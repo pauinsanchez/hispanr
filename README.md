@@ -1,5 +1,7 @@
 # hispanr package (development version)
-This is a personal package I created to simplify the process of creating simple choropleth maps for Spanish provinces. 
+This is a personal package I created to simplify the process of creating simple choropleth maps for Spanish provinces such as this one:
+
+![example map](https://github.com/pauinsanchez/hispanr/data-raw/totcat1861.pdf)
 
 ## Installation
 In order to install this package, just call the development version from GitHub:
