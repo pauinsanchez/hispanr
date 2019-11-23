@@ -39,7 +39,7 @@ provmap <- function(
                       values = setNames(colorsP, b),
                       breaks = rev(b),
                       labels = rev(b),
-                      na.value = "black")
+                      na.value = "white")
   # plot the map
   plot(map)
 }
