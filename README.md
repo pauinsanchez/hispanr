@@ -1,8 +1,6 @@
 # hispanr
 
-``` r
 [![](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-```
 
 **This is an old package which I am currently trying to relive by fixing some issues and adding some new features.**
 
